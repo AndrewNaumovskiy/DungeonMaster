@@ -1,0 +1,15 @@
+D:\Projects\CS\DungeonMaster\DungeonMaster\bin\Debug\DungeonMaster.exe.config
+D:\Projects\CS\DungeonMaster\DungeonMaster\bin\Debug\DungeonMaster.exe
+D:\Projects\CS\DungeonMaster\DungeonMaster\bin\Debug\DungeonMaster.pdb
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster.csprojAssemblyReference.cache
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\MainWindow.g.cs
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\App.g.cs
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster_MarkupCompile.cache
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster_MarkupCompile.lref
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\MainWindow.baml
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster.g.resources
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster.Properties.Resources.resources
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster.csproj.GenerateResource.cache
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster.csproj.CoreCompileInputs.cache
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster.exe
+D:\Projects\CS\DungeonMaster\DungeonMaster\obj\Debug\DungeonMaster.pdb
