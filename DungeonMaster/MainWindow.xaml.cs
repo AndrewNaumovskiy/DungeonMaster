@@ -20,6 +20,7 @@ namespace DungeonMaster {
     public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
+            MessageBox.Show("ДРАКОНОВ НЕ БУДЕТ");
         }
     }
 }
